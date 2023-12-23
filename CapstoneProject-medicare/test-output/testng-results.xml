@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-23T12:36:28 IST" name="Default suite" finished-at="2023-12-23T12:36:34 IST" duration-ms="6238">
+    <groups>
+    </groups>
+    <test started-at="2023-12-23T12:36:28 IST" name="Default test" finished-at="2023-12-23T12:36:34 IST" duration-ms="6238">
+      <class name="com.medicare.Tests.HomePageTest">
+        <test-method is-config="true" signature="start_browser()[pri:0, instance:com.medicare.Tests.HomePageTest@6e9a5ed8]" started-at="2023-12-23T12:36:28 IST" name="start_browser" finished-at="2023-12-23T12:36:32 IST" duration-ms="4402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start_browser -->
+        <test-method signature="test_getTitle_page()[pri:49, instance:com.medicare.Tests.HomePageTest@6e9a5ed8]" started-at="2023-12-23T12:36:32 IST" name="test_getTitle_page" finished-at="2023-12-23T12:36:32 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getTitle_page -->
+        <test-method signature="Test_Validate_Text_On_Page()[pri:50, instance:com.medicare.Tests.HomePageTest@6e9a5ed8]" started-at="2023-12-23T12:36:32 IST" name="Test_Validate_Text_On_Page" finished-at="2023-12-23T12:36:32 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Validate_Text_On_Page -->
+        <test-method signature="test_click_register_link()[pri:51, instance:com.medicare.Tests.HomePageTest@6e9a5ed8]" started-at="2023-12-23T12:36:32 IST" name="test_click_register_link" finished-at="2023-12-23T12:36:34 IST" duration-ms="1720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_click_register_link -->
+      </class> <!-- com.medicare.Tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
